@@ -1,0 +1,265 @@
+{
+  "menu": {
+    "index": "Home",
+    "about": "Review",
+    "how-to-play": "How to Play",
+    "bonus": "Bonuses",
+    "strategy": "Strategy",
+    "mobile": "Mobile",
+    "faq": "FAQ",
+    "contacts": "Contacts"
+  },
+  "cta": [
+    "Play Now",
+    "Open JackPoker",
+    "Claim Bonus",
+    "Start Playing",
+    "Play Poker"
+  ],
+  "responsible": "18+ Play responsibly. This website is informational only.",
+  "disclaimer": "This website is not an official JackPoker website. Bonus terms may vary on partner side.",
+  "meta": {
+    "index": {
+      "title": "JackPoker Online Review: Bonuses and Poker Guide",
+      "description": "Independent JackPoker review: play online, compare bonuses, and improve poker strategy with responsible habits."
+    },
+    "about": {
+      "title": "JackPoker Review: Formats, UX, and Core Rules",
+      "description": "Detailed JackPoker review covering formats, UX, safety practices, and practical player recommendations."
+    },
+    "how-to-play": {
+      "title": "How to Play JackPoker: Step-by-Step Starter",
+      "description": "Step-by-step JackPoker guide for beginners: start flow, limits, table selection, and bankroll control."
+    },
+    "bonus": {
+      "title": "JackPoker Bonus Guide: Compare Offer Value",
+      "description": "JackPoker bonus breakdown: wagering, restrictions, timelines, and partner-side verification checklist."
+    },
+    "strategy": {
+      "title": "JackPoker Strategy: Position, Bankroll, Distance",
+      "description": "Practical JackPoker strategy guide: position, bet sizing, discipline, and post-session analysis."
+    },
+    "mobile": {
+      "title": "JackPoker Mobile: Play Online Poker on Phone",
+      "description": "Mobile JackPoker guide: performance setup, security basics, and stable online poker sessions."
+    },
+    "faq": {
+      "title": "JackPoker FAQ: Answers About Game and Bonuses",
+      "description": "Frequently asked JackPoker questions about gameplay, bonuses, strategy, and responsible poker habits."
+    },
+    "contacts": {
+      "title": "JackPoker Guide Contacts and Project Info",
+      "description": "Contacts and legal information for JackPoker Guide, an independent informational review project."
+    }
+  },
+  "pages": {
+    "index": {
+      "breadcrumbs": "Home / Home",
+      "h1": "JackPoker: Home",
+      "lead": "Home as an independent guide: practical JackPoker content, online poker basics, bonus logic, and responsible play.",
+      "cards": {
+        "c1t": "Bonus Clarity",
+        "c1d": "Understand real conditions without hype.",
+        "c2t": "Safe Routine",
+        "c2d": "Limits, breaks, and emotional control.",
+        "c3t": "Practical Strategy",
+        "c3d": "Position, distance, and hand review workflow."
+      },
+      "body": "<h2>Practical Focus: poker? pokerpoker? ? poker? ? JackPoker pokerok</h2><p>This section is written as an independent informational guide for players who want structure, not hype. It explains JackPoker online usage through practical routines: preparation, session discipline, and post-session review.</p><p>Core idea: stable decision quality matters more than short-term outcomes. Players improve faster when they set limits, run short sessions, review key hands, and avoid emotionally driven changes in strategy.</p><p>Bonus topics are covered with a term-first method: timeline, wagering, restrictions, and partner-side differences. This process helps users evaluate real value and avoid unrealistic expectations.</p><p>Use internal links to follow a complete learning path: review, how to play, strategy, bonus analysis, mobile setup, and FAQ. Connected navigation reduces noise and keeps progress measurable.</p><p>This website is informational and not an official JackPoker property. Partner terms can vary by region and campaign period, so always verify live conditions before activation.</p><p>Responsible gaming remains a baseline principle: set bankroll boundaries, take breaks, avoid loss-chasing, and stop sessions when concentration drops.</p>",
+      "faq": {
+        "q1": "Is this an official website?",
+        "a1": "No, it is an independent informational review project.",
+        "q2": "Where should I verify bonus terms?",
+        "a2": "Read this guide first, then verify partner-side live conditions.",
+        "q3": "How should a beginner start?",
+        "a3": "Use lower limits, short sessions, and post-session hand analysis.",
+        "q4": "Can I play on mobile?",
+        "a4": "Yes, the mobile section covers setup and stability recommendations.",
+        "q5": "How do I reduce risk?",
+        "a5": "Set bankroll limits, pause regularly, and avoid loss-chasing behavior."
+      }
+    },
+    "about": {
+      "breadcrumbs": "Home / JackPoker Review",
+      "h1": "JackPoker: JackPoker Review",
+      "lead": "JackPoker Review as an independent guide: practical JackPoker content, online poker basics, bonus logic, and responsible play.",
+      "cards": {
+        "c1t": "Bonus Clarity",
+        "c1d": "Understand real conditions without hype.",
+        "c2t": "Safe Routine",
+        "c2d": "Limits, breaks, and emotional control.",
+        "c3t": "Practical Strategy",
+        "c3d": "Position, distance, and hand review workflow."
+      },
+      "body": "<h2>Practical Focus: pokerpoker? poker? pokerpokerok ? pokerplay pokerpoker JackPoker</h2><p>This section is written as an independent informational guide for players who want structure, not hype. It explains JackPoker online usage through practical routines: preparation, session discipline, and post-session review.</p><p>Core idea: stable decision quality matters more than short-term outcomes. Players improve faster when they set limits, run short sessions, review key hands, and avoid emotionally driven changes in strategy.</p><p>Bonus topics are covered with a term-first method: timeline, wagering, restrictions, and partner-side differences. This process helps users evaluate real value and avoid unrealistic expectations.</p><p>Use internal links to follow a complete learning path: review, how to play, strategy, bonus analysis, mobile setup, and FAQ. Connected navigation reduces noise and keeps progress measurable.</p><p>This website is informational and not an official JackPoker property. Partner terms can vary by region and campaign period, so always verify live conditions before activation.</p><p>Responsible gaming remains a baseline principle: set bankroll boundaries, take breaks, avoid loss-chasing, and stop sessions when concentration drops.</p>",
+      "faq": {
+        "q1": "Is this an official website?",
+        "a1": "No, it is an independent informational review project.",
+        "q2": "Where should I verify bonus terms?",
+        "a2": "Read this guide first, then verify partner-side live conditions.",
+        "q3": "How should a beginner start?",
+        "a3": "Use lower limits, short sessions, and post-session hand analysis.",
+        "q4": "Can I play on mobile?",
+        "a4": "Yes, the mobile section covers setup and stability recommendations.",
+        "q5": "How do I reduce risk?",
+        "a5": "Set bankroll limits, pause regularly, and avoid loss-chasing behavior."
+      }
+    },
+    "how-to-play": {
+      "breadcrumbs": "Home / How to Play JackPoker",
+      "h1": "JackPoker: How to Play JackPoker",
+      "lead": "How to Play JackPoker as an independent guide: practical JackPoker content, online poker basics, bonus logic, and responsible play.",
+      "cards": {
+        "c1t": "Bonus Clarity",
+        "c1d": "Understand real conditions without hype.",
+        "c2t": "Safe Routine",
+        "c2d": "Limits, breaks, and emotional control.",
+        "c3t": "Practical Strategy",
+        "c3d": "Position, distance, and hand review workflow."
+      },
+      "body": "<h2>Practical Focus: pokerpoker? pokerpoker pokerok ? pokerplay pokerplay pokerpoker pokerplay</h2><p>This section is written as an independent informational guide for players who want structure, not hype. It explains JackPoker online usage through practical routines: preparation, session discipline, and post-session review.</p><p>Core idea: stable decision quality matters more than short-term outcomes. Players improve faster when they set limits, run short sessions, review key hands, and avoid emotionally driven changes in strategy.</p><p>Bonus topics are covered with a term-first method: timeline, wagering, restrictions, and partner-side differences. This process helps users evaluate real value and avoid unrealistic expectations.</p><p>Use internal links to follow a complete learning path: review, how to play, strategy, bonus analysis, mobile setup, and FAQ. Connected navigation reduces noise and keeps progress measurable.</p><p>This website is informational and not an official JackPoker property. Partner terms can vary by region and campaign period, so always verify live conditions before activation.</p><p>Responsible gaming remains a baseline principle: set bankroll boundaries, take breaks, avoid loss-chasing, and stop sessions when concentration drops.</p>",
+      "faq": {
+        "q1": "Is this an official website?",
+        "a1": "No, it is an independent informational review project.",
+        "q2": "Where should I verify bonus terms?",
+        "a2": "Read this guide first, then verify partner-side live conditions.",
+        "q3": "How should a beginner start?",
+        "a3": "Use lower limits, short sessions, and post-session hand analysis.",
+        "q4": "Can I play on mobile?",
+        "a4": "Yes, the mobile section covers setup and stability recommendations.",
+        "q5": "How do I reduce risk?",
+        "a5": "Set bankroll limits, pause regularly, and avoid loss-chasing behavior."
+      }
+    },
+    "bonus": {
+      "breadcrumbs": "Home / Bonuses and Offers",
+      "h1": "JackPoker: Bonuses and Offers",
+      "lead": "Bonuses and Offers as an independent guide: practical JackPoker content, online poker basics, bonus logic, and responsible play.",
+      "cards": {
+        "c1t": "Bonus Clarity",
+        "c1d": "Understand real conditions without hype.",
+        "c2t": "Safe Routine",
+        "c2d": "Limits, breaks, and emotional control.",
+        "c3t": "Practical Strategy",
+        "c3d": "Position, distance, and hand review workflow."
+      },
+      "body": "<h2>Practical Focus: pokerok pokerplay, pokerpoker, pokerok ? pokerpokerplay poker?</h2><p>This section is written as an independent informational guide for players who want structure, not hype. It explains JackPoker online usage through practical routines: preparation, session discipline, and post-session review.</p><p>Core idea: stable decision quality matters more than short-term outcomes. Players improve faster when they set limits, run short sessions, review key hands, and avoid emotionally driven changes in strategy.</p><p>Bonus topics are covered with a term-first method: timeline, wagering, restrictions, and partner-side differences. This process helps users evaluate real value and avoid unrealistic expectations.</p><p>Use internal links to follow a complete learning path: review, how to play, strategy, bonus analysis, mobile setup, and FAQ. Connected navigation reduces noise and keeps progress measurable.</p><p>This website is informational and not an official JackPoker property. Partner terms can vary by region and campaign period, so always verify live conditions before activation.</p><p>Responsible gaming remains a baseline principle: set bankroll boundaries, take breaks, avoid loss-chasing, and stop sessions when concentration drops.</p>",
+      "faq": {
+        "q1": "Is this an official website?",
+        "a1": "No, it is an independent informational review project.",
+        "q2": "Where should I verify bonus terms?",
+        "a2": "Read this guide first, then verify partner-side live conditions.",
+        "q3": "How should a beginner start?",
+        "a3": "Use lower limits, short sessions, and post-session hand analysis.",
+        "q4": "Can I play on mobile?",
+        "a4": "Yes, the mobile section covers setup and stability recommendations.",
+        "q5": "How do I reduce risk?",
+        "a5": "Set bankroll limits, pause regularly, and avoid loss-chasing behavior."
+      }
+    },
+    "strategy": {
+      "breadcrumbs": "Home / Poker Strategy",
+      "h1": "JackPoker: Poker Strategy",
+      "lead": "Poker Strategy as an independent guide: practical JackPoker content, online poker basics, bonus logic, and responsible play.",
+      "cards": {
+        "c1t": "Bonus Clarity",
+        "c1d": "Understand real conditions without hype.",
+        "c2t": "Safe Routine",
+        "c2d": "Limits, breaks, and emotional control.",
+        "c3t": "Practical Strategy",
+        "c3d": "Position, distance, and hand review workflow."
+      },
+      "body": "<h2>Practical Focus: pokerpokerpokerok poker: pokerplay, pokerplay, pokerpoker? ? pokerok play</h2><p>This section is written as an independent informational guide for players who want structure, not hype. It explains JackPoker online usage through practical routines: preparation, session discipline, and post-session review.</p><p>Core idea: stable decision quality matters more than short-term outcomes. Players improve faster when they set limits, run short sessions, review key hands, and avoid emotionally driven changes in strategy.</p><p>Bonus topics are covered with a term-first method: timeline, wagering, restrictions, and partner-side differences. This process helps users evaluate real value and avoid unrealistic expectations.</p><p>Use internal links to follow a complete learning path: review, how to play, strategy, bonus analysis, mobile setup, and FAQ. Connected navigation reduces noise and keeps progress measurable.</p><p>This website is informational and not an official JackPoker property. Partner terms can vary by region and campaign period, so always verify live conditions before activation.</p><p>Responsible gaming remains a baseline principle: set bankroll boundaries, take breaks, avoid loss-chasing, and stop sessions when concentration drops.</p>",
+      "faq": {
+        "q1": "Is this an official website?",
+        "a1": "No, it is an independent informational review project.",
+        "q2": "Where should I verify bonus terms?",
+        "a2": "Read this guide first, then verify partner-side live conditions.",
+        "q3": "How should a beginner start?",
+        "a3": "Use lower limits, short sessions, and post-session hand analysis.",
+        "q4": "Can I play on mobile?",
+        "a4": "Yes, the mobile section covers setup and stability recommendations.",
+        "q5": "How do I reduce risk?",
+        "a5": "Set bankroll limits, pause regularly, and avoid loss-chasing behavior."
+      }
+    },
+    "mobile": {
+      "breadcrumbs": "Home / Mobile Poker",
+      "h1": "JackPoker: Mobile Poker",
+      "lead": "Mobile Poker as an independent guide: practical JackPoker content, online poker basics, bonus logic, and responsible play.",
+      "cards": {
+        "c1t": "Bonus Clarity",
+        "c1d": "Understand real conditions without hype.",
+        "c2t": "Safe Routine",
+        "c2d": "Limits, breaks, and emotional control.",
+        "c3t": "Practical Strategy",
+        "c3d": "Position, distance, and hand review workflow."
+      },
+      "body": "<h2>Practical Focus: pokerpoker? poker?: pokerpokerpoker, UX ? pokerpoker pokerok ok pokerpoker?</h2><p>This section is written as an independent informational guide for players who want structure, not hype. It explains JackPoker online usage through practical routines: preparation, session discipline, and post-session review.</p><p>Core idea: stable decision quality matters more than short-term outcomes. Players improve faster when they set limits, run short sessions, review key hands, and avoid emotionally driven changes in strategy.</p><p>Bonus topics are covered with a term-first method: timeline, wagering, restrictions, and partner-side differences. This process helps users evaluate real value and avoid unrealistic expectations.</p><p>Use internal links to follow a complete learning path: review, how to play, strategy, bonus analysis, mobile setup, and FAQ. Connected navigation reduces noise and keeps progress measurable.</p><p>This website is informational and not an official JackPoker property. Partner terms can vary by region and campaign period, so always verify live conditions before activation.</p><p>Responsible gaming remains a baseline principle: set bankroll boundaries, take breaks, avoid loss-chasing, and stop sessions when concentration drops.</p>",
+      "faq": {
+        "q1": "Is this an official website?",
+        "a1": "No, it is an independent informational review project.",
+        "q2": "Where should I verify bonus terms?",
+        "a2": "Read this guide first, then verify partner-side live conditions.",
+        "q3": "How should a beginner start?",
+        "a3": "Use lower limits, short sessions, and post-session hand analysis.",
+        "q4": "Can I play on mobile?",
+        "a4": "Yes, the mobile section covers setup and stability recommendations.",
+        "q5": "How do I reduce risk?",
+        "a5": "Set bankroll limits, pause regularly, and avoid loss-chasing behavior."
+      }
+    },
+    "faq": {
+      "breadcrumbs": "Home / FAQ",
+      "h1": "JackPoker: FAQ",
+      "lead": "FAQ as an independent guide: practical JackPoker content, online poker basics, bonus logic, and responsible play.",
+      "cards": {
+        "c1t": "Bonus Clarity",
+        "c1d": "Understand real conditions without hype.",
+        "c2t": "Safe Routine",
+        "c2d": "Limits, breaks, and emotional control.",
+        "c3t": "Practical Strategy",
+        "c3d": "Position, distance, and hand review workflow."
+      },
+      "body": "<h2>Practical Focus: pokerok ok pokerok pokerplay ok poker, pokerplay ? pokerpokerplay pokerok</h2><p>This section is written as an independent informational guide for players who want structure, not hype. It explains JackPoker online usage through practical routines: preparation, session discipline, and post-session review.</p><p>Core idea: stable decision quality matters more than short-term outcomes. Players improve faster when they set limits, run short sessions, review key hands, and avoid emotionally driven changes in strategy.</p><p>Bonus topics are covered with a term-first method: timeline, wagering, restrictions, and partner-side differences. This process helps users evaluate real value and avoid unrealistic expectations.</p><p>Use internal links to follow a complete learning path: review, how to play, strategy, bonus analysis, mobile setup, and FAQ. Connected navigation reduces noise and keeps progress measurable.</p><p>This website is informational and not an official JackPoker property. Partner terms can vary by region and campaign period, so always verify live conditions before activation.</p><p>Responsible gaming remains a baseline principle: set bankroll boundaries, take breaks, avoid loss-chasing, and stop sessions when concentration drops.</p>",
+      "faq": {
+        "q1": "Is this an official website?",
+        "a1": "No, it is an independent informational review project.",
+        "q2": "Where should I verify bonus terms?",
+        "a2": "Read this guide first, then verify partner-side live conditions.",
+        "q3": "How should a beginner start?",
+        "a3": "Use lower limits, short sessions, and post-session hand analysis.",
+        "q4": "Can I play on mobile?",
+        "a4": "Yes, the mobile section covers setup and stability recommendations.",
+        "q5": "How do I reduce risk?",
+        "a5": "Set bankroll limits, pause regularly, and avoid loss-chasing behavior."
+      }
+    },
+    "contacts": {
+      "breadcrumbs": "Home / Contacts and Info",
+      "h1": "JackPoker: Contacts and Info",
+      "lead": "Contacts and Info as an independent guide: practical JackPoker content, online poker basics, bonus logic, and responsible play.",
+      "cards": {
+        "c1t": "Bonus Clarity",
+        "c1d": "Understand real conditions without hype.",
+        "c2t": "Safe Routine",
+        "c2d": "Limits, breaks, and emotional control.",
+        "c3t": "Practical Strategy",
+        "c3d": "Position, distance, and hand review workflow."
+      },
+      "body": "<h2>Practical Focus: pokerpoker pokerplay, pokerpokerplay pokerpokerplay ? pokerpoker poker?</h2><p>This section is written as an independent informational guide for players who want structure, not hype. It explains JackPoker online usage through practical routines: preparation, session discipline, and post-session review.</p><p>Core idea: stable decision quality matters more than short-term outcomes. Players improve faster when they set limits, run short sessions, review key hands, and avoid emotionally driven changes in strategy.</p><p>Bonus topics are covered with a term-first method: timeline, wagering, restrictions, and partner-side differences. This process helps users evaluate real value and avoid unrealistic expectations.</p><p>Use internal links to follow a complete learning path: review, how to play, strategy, bonus analysis, mobile setup, and FAQ. Connected navigation reduces noise and keeps progress measurable.</p><p>This website is informational and not an official JackPoker property. Partner terms can vary by region and campaign period, so always verify live conditions before activation.</p><p>Responsible gaming remains a baseline principle: set bankroll boundaries, take breaks, avoid loss-chasing, and stop sessions when concentration drops.</p>",
+      "faq": {
+        "q1": "Is this an official website?",
+        "a1": "No, it is an independent informational review project.",
+        "q2": "Where should I verify bonus terms?",
+        "a2": "Read this guide first, then verify partner-side live conditions.",
+        "q3": "How should a beginner start?",
+        "a3": "Use lower limits, short sessions, and post-session hand analysis.",
+        "q4": "Can I play on mobile?",
+        "a4": "Yes, the mobile section covers setup and stability recommendations.",
+        "q5": "How do I reduce risk?",
+        "a5": "Set bankroll limits, pause regularly, and avoid loss-chasing behavior."
+      }
+    }
+  }
+}
