@@ -1,7 +1,7 @@
 (function(){
 const qs=(s,c=document)=>c.querySelector(s);const qsa=(s,c=document)=>Array.from(c.querySelectorAll(s));
 const slug=(document.body.dataset.page||'index');
-let lang=localStorage.getItem('lang')==='en'?'en':'ru';
+let lang=(localStorage.getItem('lang')||'ru'); if(lang!=='ru'&&lang!=='en') lang='ru';
 let dict=null;
 async function load(langCode){const res=await fetch('/lang/'+langCode+'.json');return res.json();}
 function setMeta(page){if(!dict||!dict.meta||!dict.meta[page])return;const m=dict.meta[page];document.title=m.title;const d=qs('meta[name="description"]');if(d)d.content=m.description;const ogt=qs('meta[property="og:title"]');if(ogt)ogt.content=m.title;const ogd=qs('meta[property="og:description"]');if(ogd)ogd.content=m.description;const twt=qs('meta[name="twitter:title"]');if(twt)twt.content=m.title;const twd=qs('meta[name="twitter:description"]');if(twd)twd.content=m.description;}

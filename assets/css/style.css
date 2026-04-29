@@ -16,6 +16,7 @@ a{color:var(--gold);text-decoration:none}a:hover{text-decoration:underline}
 .card h3{margin:8px 0}.muted{color:var(--muted)}
 .faq-item{border-top:1px solid var(--line)}.faq-q{width:100%;text-align:left;background:none;border:0;color:#fff;padding:14px 0;font-size:1rem;font-weight:700;cursor:pointer}.faq-a{display:none;color:var(--muted);padding:0 0 14px}.faq-item.open .faq-a{display:block}
 .lang-block{display:none}.lang-block.active{display:block}
+.sr-only{display:none !important}
 .footer{margin-top:34px;border-top:1px solid var(--line);background:#0b0d12}.footer-grid{display:grid;grid-template-columns:2fr 1fr 1fr;gap:18px;padding:24px 0}
 .badge{display:inline-block;border:1px solid var(--line);padding:4px 8px;border-radius:999px;color:var(--muted)}
 @media(max-width:980px){.hero-grid,.footer-grid{grid-template-columns:1fr}.grid3{grid-template-columns:1fr 1fr}}
